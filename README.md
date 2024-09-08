@@ -2,7 +2,7 @@
 
         <p align="left"> <img
                 src="https://komarev.com/ghpvc/?username=shantiprakash&label=Profile%20views&color=0e75b6&style=flat"
-                alt="ermarkar" /> </p>        
+                alt="shantiprakash" /> </p>        
 
         <h3 align="left">Languages and Tools:</h3>
         <p align="left">
